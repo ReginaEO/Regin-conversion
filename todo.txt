@@ -1,0 +1,4 @@
+conversion functions needed:
+rands to cents
+-hour to minutes
+-kg to pounds
